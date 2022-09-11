@@ -2,7 +2,10 @@
 
 Este script utiliza web scraping para enviar o [formulário de contado do meu site](https://matheus-eduardo.com.br/contact).<br>
 Para instalar os pacotes necessário rode o seguinte comando:<br>
-`pip install -r requirements.txt`<br>
+```
+pip install -r requirements.txt
+```
+<br>
 
 Documentação relacionada:<br>
 - [Consumindo API](https://github.com/euMts/aula_scraping_e_api/tree/main/Consumindo%20API)<br>
