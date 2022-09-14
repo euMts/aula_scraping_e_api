@@ -5,4 +5,4 @@ Além dos materiais de apoio podemos encontrar [exercícios](https://github.com/
 ## Links Relacionados
 - [Baixar o Insomnia](https://insomnia.rest/download)<br>
 
-Última atualização: 11/09/2022
+Última atualização: 13/09/2022
